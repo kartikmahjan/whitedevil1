@@ -6,7 +6,10 @@
 <body>
 
 <h1>kartik mahajan</h1>
-<p>My first paragraph.</p>
+<h2>chahat</h2>
+<h3>kangna</h3>
+<h4>kanika</h4>
+<h5>abhay</h5>
 
 </body>
 </html>
